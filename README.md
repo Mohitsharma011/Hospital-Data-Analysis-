@@ -176,7 +176,7 @@ GROUP BY p.patientid , p.firstname
 HAVING unique_doctors_visited > 3;
 
 **📂 Project Structure**
-
+https://github.com/Mohitsharma011/Hospital-Data-Analysis-
 
 
 
